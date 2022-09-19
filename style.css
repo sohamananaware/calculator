@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 180px;
+    height: 250px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    margin:50px auto;
+    box-shadow: 0px 0px 10px black;
+    border-radius: 5px;
+}
+
+table{
+    margin: auto;
+}
+table td{
+    padding: 1px;
+}
+
+h1{
+    text-align: center;
+    box-shadow: 0px 0px 10px black;
+}
+
+button{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+input{
+    height: 50px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
